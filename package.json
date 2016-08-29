@@ -1,0 +1,26 @@
+{
+  "name": "lagou-spider-data-handle",
+  "version": "1.0.0",
+  "description": "data handle",
+  "main": "data-handle-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https//github.com/Weiyu-Chen/lagou-spider-data-handle.git"
+  },
+  "keywords": [
+    "lagou",
+    "spider",
+    "data",
+    "handle"
+  ],
+  "author": "Chen Weiyu",
+  "license": "ISC",
+  "dependencies": {
+    "eventproxy": "^0.3.5",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.10"
+  }
+}
